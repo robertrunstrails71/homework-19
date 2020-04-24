@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first": "Thomas",
+    "last": "Muller",
+    "FC": "Bayern Munich",
+    "position": "Forward",
+    "from": "Germany"
+  },
+  {
+    "id": 2,
+    "first": "Cristiano",
+    "last": "Ronaldo",
+    "FC": "Juventus",
+    "position": "Winger",
+    "from": "Portugal"
+  },
+  {
+    "id": 3,
+    "first": "Lionel",
+    "last": "Messi",
+    "FC": "Barca",
+    "position": "Forward",
+    "from": "Argentina"
+  },
+  {
+    "id": 4,
+    "first": "Mohammad",
+    "last": "Salah",
+    "FC": "Liverpool",
+    "position": "Forward",
+    "from": "Egypt"
+  },
+  {
+    "id": 5,
+    "first": "Sergio",
+    "last": "Ramos",
+    "FC": "Real Madrid",
+    "position": "Defender",
+    "from": "Spain"
+  },
+  {
+    "id": 6,
+    "first": "Zinedine",
+    "last": "Zidane",
+    "FC": "Real Madrid",
+    "position": "Coach",
+    "from": "France"
+  },
+  {
+    "id": 7,
+    "first": "Tony",
+    "last": "Kross",
+    "FC": "Real Madrid",
+    "position": "Midfilder",
+    "from": "Germany"
+  },
+  {
+    "id": 8,
+    "first": "Thibaut",
+    "last": "Courtois",
+    "FC": "Real Madrid",
+    "position": "Goalkeeper",
+    "from": "Belgium"
+  },
+  {
+    "id": 9,
+    "first": "Jürgen",
+    "last": "Klopp",
+    "FC": "Liverpool",
+    "position": "Coach",
+    "from": "Germany"
+  },
+  {
+    "id": 10,
+    "first": "Sadio",
+    "last": "Mané",
+    "FC": "Liverpool",
+    "position": "Forward",
+    "from": "Senegal"
+  }
+]
